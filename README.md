@@ -13,4 +13,8 @@
 
 🟨🟨🟨🟨🟨🟨🟨
 
-simple game in telegram bot
+simple game in telegram bot.
+
+https://t.me/@ColorSquare_bot 
+
+press /start and have fun)
