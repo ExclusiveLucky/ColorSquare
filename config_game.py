@@ -1,6 +1,6 @@
 ##################################   S E T T I N G S ##############################
 db_name = 'USERS_GAME.db'
-token = '5263297508:AAExV8ZyiB_kuSiTgTq9FfGkC-OPn0XFRqQ'
+token = "token"
 start_btn = {'⚪️🔵🟢START':'START_NOW','WINNERS🟡🟠🔴':'STTISTIC'}  
 restart_btn = {'⚪️🔵🟢RESTART':'START_NOW','WINNERS🟡🟠🔴':'STTISTIC'}
 colour_base = ['🟦','🟥','🟩','🟨','🟧','🟪','⬜️']
